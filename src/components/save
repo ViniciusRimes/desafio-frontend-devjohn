@@ -1,0 +1,122 @@
+<div className={styles.blogCardsLists}>
+            <div className={styles.card}>
+                <div className={styles.img1}></div>
+                <div className={styles.cardInfo}>
+                    <span className={styles.release}><p>08.08.2021</p></span>
+                    <p className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                    <div className={styles.author}>
+                        <img src={author} alt="Autor" />
+                        <div>
+                            <p style={{fontWeight: 700}}>By Jennifer Lawrence</p>
+                            <p>By Jennifer Lawrence Thinker & Designer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className={styles.card}>
+                <div className={styles.img2}></div>
+                <div className={styles.cardInfo}>
+                    <span className={styles.release}><p>08.08.2021</p></span>
+                    <p className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                    <div className={styles.author}>
+                        <img src={author} alt="Autor" />
+                        <div>
+                            <p style={{fontWeight: 700}}>By Jennifer Lawrence</p>
+                            <p>By Jennifer Lawrence Thinker & Designer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className={styles.card}>
+                <div className={styles.img3}></div>
+                <div className={styles.cardInfo}>
+                    <span className={styles.release}><p>08.08.2021</p></span>
+                    <p className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                    <div className={styles.author}>
+                        <img src={author} alt="Autor" />
+                        <div>
+                            <p style={{fontWeight: 700}}>By Jennifer Lawrence</p>
+                            <p>By Jennifer Lawrence Thinker & Designer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className={styles.card}>
+                <div className={styles.img4}></div>
+                <div className={styles.cardInfo}>
+                    <span className={styles.release}><p>08.08.2021</p></span>
+                    <p className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                    <div className={styles.author}>
+                        <img src={author} alt="Autor" />
+                        <div>
+                            <p style={{fontWeight: 700}}>By Jennifer Lawrence</p>
+                            <p>By Jennifer Lawrence Thinker & Designer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className={styles.card}>
+                <div className={styles.img5}></div> 
+                <div className={styles.cardInfo}>
+                    <span className={styles.release}><p>08.08.2021</p></span>
+                    <p className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                    <div className={styles.author}>
+                        <img src={author} alt="Autor" />
+                        <div>
+                            <p style={{fontWeight: 700}}>By Jennifer Lawrence</p>
+                            <p>By Jennifer Lawrence Thinker & Designer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className={styles.card}>
+                <div className={styles.img6}></div>
+                <div className={styles.cardInfo}>
+                    <span className={styles.release}><p>08.08.2021</p></span>
+                    <p className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                    <div className={styles.author}>
+                        <img src={author} alt="Autor" />
+                        <div>
+                            <p style={{fontWeight: 700}}>By Jennifer Lawrence</p>
+                            <p>By Jennifer Lawrence Thinker & Designer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className={styles.card}>
+                <div className={styles.img7}></div>
+                <div className={styles.cardInfo}>
+                    <span className={styles.release}><p>08.08.2021</p></span>
+                    <p className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                    <div className={styles.author}>
+                        <img src={author} alt="Autor" />
+                        <div>
+                            <p style={{fontWeight: 700}}>By Jennifer Lawrence</p>
+                            <p>By Jennifer Lawrence Thinker & Designer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className={styles.card}>
+                <div className={styles.img8}></div>
+                <div className={styles.cardInfo}>
+                    <span className={styles.release}><p>08.08.2021</p></span>
+                    <p className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                    <div className={styles.author}>
+                        <img src={author} alt="Autor" />
+                        <div>
+                            <p style={{fontWeight: 700}}>By Jennifer Lawrence</p>
+                            <p>By Jennifer Lawrence Thinker & Designer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>

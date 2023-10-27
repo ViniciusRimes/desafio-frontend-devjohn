@@ -1,0 +1,100 @@
+.blogCards{
+    height: 1000px;
+    margin: 8em 3em 0em 3em;
+}
+.blogCards h2{
+    color: #495057;
+    font-family: 'Lora';
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.blogCards .filterGenrer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2em;
+}
+.blogCards .filterGenrer .genres{
+    display: flex;
+}
+.filterGenrer li{
+    margin-right: 1em;
+    font-family: 'Lora';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px; 
+}
+.blogCardsLists{
+    margin-top: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.blogCardsLists .card{
+    width: 400px;
+    height: 600px;
+    background-color: #fff;
+    box-shadow: 5px 5px 2px #fff;
+    margin-bottom: 4em;
+}
+.card img{
+    width: 400px;
+    height: 350px;
+}
+.cardInfo{
+    margin: 1em;
+    font-family: 'Lora';
+    font-style: normal;
+}
+.cardInfo .release{
+    color: #6C757D;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: normal;
+}
+.cardInfo .title{
+    color: #495057;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    margin: 0.8em 0em;
+}
+.cardInfo .description{
+    color: #6C757D;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 0.8em;
+}
+.card .author{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    border-top: 0.5px solid #E5E5E5; 
+    padding: 1em 0em;
+}
+.author img{
+    width: 50px;
+    height: 50px;
+    margin-right: 2em;
+}
+.author p{
+    color: #495057;
+    font-family: 'Lora';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px
+}
+.backgroundImg{
+    width: 400px;
+    height: 350px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
