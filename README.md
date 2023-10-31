@@ -13,10 +13,6 @@ Este projeto de frontend foi desenvolvido como parte de um desafio proposto pelo
 Link: <a href="https://desafio-frontend-devjohn-git-main-viniciusrimes.vercel.app">Landing Page</a>
 
 
-## Sobre o Desafio
-
-O desafio do Futuro Dev John representou uma oportunidade valiosa para aplicar e aprimorar habilidades de desenvolvimento web. Inspirado no design do Figma, o projeto permitiu explorar conceitos e práticas modernas de desenvolvimento.
-
 
 
  
