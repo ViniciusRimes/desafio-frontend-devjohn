@@ -1,6 +1,6 @@
 # Projeto Frontend - Desafio Landing Page
 
-Este projeto de frontend foi desenvolvido como parte de um desafio proposto pelo YouTuber [Futuro Dev John](<a href="https://www.youtube.com/@futuroDevJohn" target="_blank">Futuro Dev John</a>). O desafio consistiu na criação de uma landing page com base no design fornecido por meio do Figma.
+Este projeto de frontend foi desenvolvido como parte de um desafio proposto pelo YouTuber <a href="https://www.youtube.com/@futuroDevJohn">Futuro Dev John</a>. O desafio consistiu na criação de uma landing page com base no design fornecido por meio do Figma.
 
 ## Destaques do Projeto
 
@@ -10,7 +10,7 @@ Este projeto de frontend foi desenvolvido como parte de um desafio proposto pelo
 
 ## Link de Deploy
 
-Você pode conferir o resultado deste projeto no seguinte [Landing Page](<a href="https://desafio-frontend-devjohn-git-main-viniciusrimes.vercel.app" target="_blank">link de deploy</a>)
+Você pode conferir o resultado deste projeto no seguinte <a href="https://desafio-frontend-devjohn-git-main-viniciusrimes.vercel.app">Landing Page</a>
 
 
 ## Sobre o Desafio
