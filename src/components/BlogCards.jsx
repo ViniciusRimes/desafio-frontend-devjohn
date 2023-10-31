@@ -46,7 +46,7 @@ const BlogCards = () => {
                 <li>Horror</li>
             </ul>
             <ul>
-                <li>View All</li>
+                <li style={{marginRight: 0}}>View All</li>
             </ul>
         </div>
         <div className={styles.blogCardsLists}>

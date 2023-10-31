@@ -1,5 +1,4 @@
 .blogCards{
-    height: 1000px;
     margin: 8em 3em 0em 3em;
 }
 .blogCards h2{
@@ -20,9 +19,10 @@
     display: flex;
 }
 .filterGenrer li{
+    cursor: pointer;
     margin-right: 1em;
     font-family: 'Lora';
-    font-size: 12px;
+    font-size: 1em;
     font-style: normal;
     font-weight: 700;
     line-height: 25px; 
@@ -36,13 +36,15 @@
 }
 .blogCardsLists .card{
     width: 400px;
-    height: 600px;
     background-color: #fff;
     box-shadow: 5px 5px 2px #fff;
     margin-bottom: 4em;
 }
+.card:hover{
+    cursor: pointer;
+}
 .card img{
-    width: 400px;
+    width: 100%;
     height: 350px;
 }
 .cardInfo{
@@ -86,15 +88,55 @@
 .author p{
     color: #495057;
     font-family: 'Lora';
-    font-size: 12px;
+    font-size: 0.8em;
     font-style: normal;
     font-weight: 400;
     line-height: 20px
 }
 .backgroundImg{
-    width: 400px;
+    width: 100%;
     height: 350px;
     background-size: cover;
-    background-position: center center;
+    background-position: bottom center;
     background-repeat: no-repeat;
+}
+@media (max-width: 767px){
+    .blogCards{
+        margin: 2em 3em;
+    }
+    .blogCardsLists{
+        justify-content: center;
+    }
+    .blogCardsLists .card{
+        width: 300px;
+    }
+    .backgroundImg{
+        height: 300px;
+    }
+}
+@media(min-width: 768px) and (max-width: 992px){
+    .blogCards {
+        margin: 2em 1em;
+    }
+    .blogCards h2{
+        margin-left: 0.5em;
+    }
+    .blogCards .filterGenrer{
+        margin: 1em;
+        font-size: 1.2em;
+    }
+    .blogCardsLists{
+        justify-content: space-around;
+    }
+    .blogCardsLists .card{
+        width: 45%;
+    }
+    .card .description, .card .release{
+        font-size: 0.9em;
+    }
+}
+@media (min-width: 1200px){
+    .blogCardsLists{
+        justify-content: space-around;
+    }
 }

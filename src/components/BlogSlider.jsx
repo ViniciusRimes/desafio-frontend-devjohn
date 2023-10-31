@@ -9,7 +9,7 @@ const Home = () => {
           <span className={styles.category}>
               <p>ADVENTURE</p>
           </span>
-          <h3>lorem impsum lorem ipsum lorem ipsum</h3>
+          <h2>lorem impsum lorem ipsum lorem ipsum</h2>
           <span className={styles.release}>
             <p className={styles.date}>08.08.2021</p>
             <p className={styles.line}>-</p>

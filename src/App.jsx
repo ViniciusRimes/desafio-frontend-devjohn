@@ -1,15 +1,18 @@
 import './App.css'
+import BigPost from './components/BigPost'
 import BlogCards from './components/BlogCards'
 import BlogSlider from './components/BlogSlider'
-import Navbar from './components/Navbar'
-
+import Footer from './components/Footer'
 function App() {
 
   return (
-    <>
-    <BlogSlider/>
-    <BlogCards/>
-    </>
+    <div className='app'>
+      <BlogSlider/>
+      <BlogCards/>
+      <BigPost/>
+      <Footer/>
+    </div>
+    
   )
 }
 
