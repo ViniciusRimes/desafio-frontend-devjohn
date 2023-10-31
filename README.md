@@ -10,7 +10,7 @@ Este projeto de frontend foi desenvolvido como parte de um desafio proposto pelo
 
 ## Link de Deploy
 
-Você pode conferir o resultado deste projeto no seguinte <a href="https://desafio-frontend-devjohn-git-main-viniciusrimes.vercel.app">Landing Page</a>
+Link: <a href="https://desafio-frontend-devjohn-git-main-viniciusrimes.vercel.app">Landing Page</a>
 
 
 ## Sobre o Desafio
